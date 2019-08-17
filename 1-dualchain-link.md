@@ -6,7 +6,7 @@ Before operating on the bridge a user should predefine or link both addresses.
 
 ### 1. Ethereum To Steem Link
 This will create a one way Link passing from Ethereum to Steem.  
-* To **link** the wallet to a Steem account send a transaction to Beem Contract address with **msg.data** content the Steem account
+* To **link** the wallet to a Steem account send a transaction to Beem contract address with **msg.data** the Steem account
 * To **unlink** the wallet and the steem account send a transaction to Beem Contract Address with an empty **msg.data**
 * To change the linked steem account you should first unlink the existing steem account.
 
