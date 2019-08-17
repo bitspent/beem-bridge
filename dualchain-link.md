@@ -1,7 +1,8 @@
 ## Beem Bridge Link
 Using Beem Bridge requires to have an ethereum wallet and steem account.
 Before operating on the bridge a user should predefine or link both addresses.
-LINK operation should match and occur on both blockchains to confirm the wallet - account duality.
+* **LINK** operation should match and occur on both blockchains to confirm the wallet - account duality.
+* **UNLINK** operation should match and occur on both blockchains as well to confirm operation.
 
 ### 1. Ethereum To Steem Link
 This will create a one way Link passing from Ethereum to Steem.
