@@ -12,7 +12,7 @@ This will create a one way Link passing from Ethereum to Steem.
 
 ### 2. Steem To Ethereum Link
 This will create a one way Link passing from Steem to Ethereum.  
-* To **link** the Steem account to an Ethereum wallet send a transaction to @steembeeem **memo** as **LINK <address>** 
+* To **link** the Steem account to an Ethereum wallet send a transaction to @steembeeem **memo** as **LINK wallet_address** 
 * To **unlink** the steem account and the wallet send a transaction to @steembeeem **memo** content **UNLINK**
 * To change the linked ethereum wallet you should first unlink the existing wallet.
 
