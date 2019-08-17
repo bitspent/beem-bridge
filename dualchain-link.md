@@ -17,4 +17,4 @@ This will create a one way Link passing from Steem to Ethereum.
 
 ### 3. Link Matching
 Whenever both links are created, the ethereum wallet and steem account are matching on both blockchains, 
-the link is actived and the user can post operate over the Beem bridge.
+the link is activated and the user can post operate over the Beem bridge.
