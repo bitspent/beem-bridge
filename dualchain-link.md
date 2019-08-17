@@ -2,7 +2,7 @@
 Using Beem Bridge requires to have an ethereum wallet and steem account.
 Before operating on the bridge a user should predefine or link both addresses.
 * **LINK** operation should match and occur on both blockchains to confirm the wallet - account duality.
-* **UNLINK** operation should match and occur on both blockchains as well to confirm operation.
+* **UNLINK** operation should match and occur on both blockchains as well to confirm the operation.
 
 ### 1. Ethereum To Steem Link
 This will create a one way Link passing from Ethereum to Steem.
@@ -19,3 +19,6 @@ This will create a one way Link passing from Steem to Ethereum.
 ### 3. Link Matching
 Whenever both links are created, the ethereum wallet and steem account are matching on both blockchains, 
 the link is activated and the user can post operate over the Beem bridge.
+
+### 4. Unlink & Withdrawal
+In the case of a confirmed unlink, all user's remaining balances (Ether & ERC-20 Tokens) on the sidechain are withdrawed to the user's ethereum's wallet.
