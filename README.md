@@ -10,7 +10,7 @@ Acting as a bridge, BEEM has two endpoints - addresses on Both Ethereum and STEE
 *	BEEM Ethereum Address: Deposit and Withdrawal Point.
 *	BEEM STEEM Account: Sidechain Operations and Transfers
 
-### To benefit of the sidechain, a user should:
+### To benefit from the sidechain, a user should:
 1.	Link his STEEM Account to his Ethereum Wallet.
 2.	Deposit his required Ether or ERC20 Token on BEEM Ethereum Address.
 3.	Once deposited he can transact at near time speed on the Sidechain with the existing users.
