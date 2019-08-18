@@ -2,7 +2,7 @@
 Giving a boost to Ether and ERC20 Tokens
 
 ## Abstract
-Ethereum the Robust Smart Contract Decentralized Computing Blockchain Network has enabled the development of unlimited Utility Tokens. Thus its transaction speed is slow and not handy for fast purpose payments businesses such as gaming platforms.
+Ethereum the powerful Smart Contract Decentralized Computing Blockchain Network has enabled the development of unlimited Utility Tokens. Thus its transaction speed is slow and not handy for fast purpose payments businesses such as gaming platforms.
 We present the BEEM Bridge, a sidechain running on the STEEM Blockchain to solve this issue benefitting from the security and processing speed of STEEM’s Blockchain on a near time transfer speed of 3 seconds for a transaction confirmation.
 
 ## How it works
