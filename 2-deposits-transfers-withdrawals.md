@@ -23,7 +23,11 @@
 
 ### Ether / ERC20 Token Withdrawal
 * To withdraw Ether or Tokens on the Ethereum Blockchain,  
-  the user sends a transaction to @steembeem with **memo**: **WITHDRAW TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**  
-* Beem ethereum smart-contract will send the token / ether on the ethereum blockchain to the linked wallet with **msg.data**: **WITHDRAWED TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**  
-  in case of sufficient funds. in all cases a transaction reply on the sidechain from @steembeem to the @user will be sent with **memo**: **WITHDRAWED TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**
-  in case of sufficient funds, else **WITHDRAW FAILED LOW BALANCE TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**
+  the user sends a transaction to @steembeem with **memo**:  
+  **WITHDRAW TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**  
+* Beem ethereum smart-contract will send the token / ether on the ethereum blockchain to the linked wallet with **msg.data**:  
+  **WITHDRAWED TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**  
+  in case of sufficient funds. in all cases a transaction reply on the sidechain from @steembeem to the @user will be sent with **memo**:  
+  **WITHDRAWED TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**
+  in case of sufficient funds,  
+  else **WITHDRAW FAILED LOW BALANCE TOKEN_NAME AMOUNT ERC20_CONTRACT_ADDRESS**
